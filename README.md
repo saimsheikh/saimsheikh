@@ -8,7 +8,7 @@
 <p align="center">
   <a href="https://saimsheikh.com"><img src="https://img.shields.io/badge/Portfolio-saimsheikh.com-111827?style=flat-square" alt="Portfolio"/></a>
   <a href="mailto:ssaimsheikh863@gmail.com"><img src="https://img.shields.io/badge/Email-ssaimsheikh863%40gmail.com-111827?style=flat-square" alt="Email"/></a>
-  <a href="https://www.linkedin.com/in/saim-sheikh/"><img src="https://img.shields.io/badge/LinkedIn-saimsheikh-111827?style=flat-square" alt="LinkedIn"/></a>
+  <a href="https://linkedin.com/in/saimsheikh"><img src="https://img.shields.io/badge/LinkedIn-saimsheikh-111827?style=flat-square" alt="LinkedIn"/></a>
 </p>
 
 ---
@@ -67,12 +67,12 @@
 ### GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saimsheikh&show_icons=true&theme=default&hide_border=true&count_private=true" alt="Saim's GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimsheikh&layout=compact&hide_border=true&count_private=true" alt="Top languages"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saimsheikh&show_icons=true&theme=default&hide_border=true&count_private=true&cache_seconds=86400" alt="Saim's GitHub stats"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saimsheikh&layout=compact&hide_border=true&count_private=true&cache_seconds=86400" alt="Top languages"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saimsheikh&hide_border=true" alt="GitHub streak"/>
+  <img src="https://streak-stats.demolab.com/?user=saimsheikh&hide_border=true&theme=default" alt="GitHub streak"/>
 </p>
 
 ---
